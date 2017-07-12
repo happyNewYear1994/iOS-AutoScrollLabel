@@ -20,4 +20,4 @@ autoScrollLabel.textColor = [UIColor blackColor];</br>
 简书详情:[http://www.jianshu.com/p/577d3eeb54ec](http://www.jianshu.com/p/577d3eeb54ec)
 
 存在bug:
-    该工程存在的问题就是从下一级界面返回就不滚动了,所以本人做了一些处理,请大家进去这个链接中,解决该bug了![https://github.com/NSLog-YuHaitao/iOSAutoLabel](https://github.com/NSLog-YuHaitao/iOSAutoLabel)
+    该工程存在的问题就是从下一级界面返回就不滚动了,所以本人做了一些处理,请大家进去这个链接中,解决该bug了[https://github.com/NSLog-YuHaitao/iOSAutoLabel](https://github.com/NSLog-YuHaitao/iOSAutoLabel)
